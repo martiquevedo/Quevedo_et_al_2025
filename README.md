@@ -1,2 +1,2 @@
 # arabidopsis-epi-greening
-Bioinfo associated to Quevedo et. al 2023.
+Bioinfo associated to Quevedo et. al 2024.
