@@ -1,0 +1,1 @@
+Peak saturation analysis. While most samples saturated at 5-10M reads, some needed up to 15M reads to stabilize. We decided to subsample to 16M million reads.
