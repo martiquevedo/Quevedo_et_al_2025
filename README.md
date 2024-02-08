@@ -7,6 +7,7 @@ https://github.com/UPSCb/UPSCb
 
 ### Running title:
 Retrograde signals control dynamic changes to the plant epigenome.
+
 Marti Quevedo&1,2, Ivona Kubalová 1*, Alexis Brun1*, Luis Cervela-Cardona1 and Åsa Strand&1
 
 & For correspondence: Marti Quevedo, marti.quevedo@cragenomica.es and Åsa Strand, asa.strand@umu.se
