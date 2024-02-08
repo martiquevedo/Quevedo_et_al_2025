@@ -2,7 +2,7 @@
 
 Bioinfo associated to Quevedo et. al 2024.
 
-Accesory code necessary deveolped by Bioinformatics UPSC group is avilable here:
+Accesory code necessary deveolped by Bioinformatics UPSC group is available here:
 https://github.com/UPSCb/UPSCb
 
 ### Running title:
