@@ -1,4 +1,4 @@
-# Arabidopsis-epi-greening
+# Quevedo et al. 2025 (published in Nature Communication)
 
 Bioinfo associated to Quevedo et. al 2025.
 
