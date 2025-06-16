@@ -1,6 +1,6 @@
 # Arabidopsis-epi-greening
 
-Bioinfo associated to Quevedo et. al 2024.
+Bioinfo associated to Quevedo et. al 2025.
 
 Accesory code necessary deveolped by Bioinformatics UPSC group is available here:
 https://github.com/UPSCb/UPSCb
